@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Drawer-Behavior.iml" filepath="$PROJECT_DIR$/.idea/modules/Drawer-Behavior.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Drawer-Behavior.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Drawer-Behavior.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Drawer-Behavior.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Drawer-Behavior.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Drawer-Behavior.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Drawer-Behavior.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Drawer-Behavior.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Drawer-Behavior.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/drawerbehavior/Drawer-Behavior.drawerbehavior.iml" filepath="$PROJECT_DIR$/.idea/modules/drawerbehavior/Drawer-Behavior.drawerbehavior.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/drawerbehavior/Drawer-Behavior.drawerbehavior.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/drawerbehavior/Drawer-Behavior.drawerbehavior.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/drawerbehavior/Drawer-Behavior.drawerbehavior.main.iml" filepath="$PROJECT_DIR$/.idea/modules/drawerbehavior/Drawer-Behavior.drawerbehavior.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/drawerbehavior/Drawer-Behavior.drawerbehavior.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/drawerbehavior/Drawer-Behavior.drawerbehavior.unitTest.iml" />
+    </modules>
+  </component>
+</project>
